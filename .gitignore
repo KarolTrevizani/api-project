@@ -1,8 +1,11 @@
 .code
+.vscode
+.idea
 .idea.coverage*
 .DS_Store
 staticfiles
 .envs*
+.envs/*
 !.envs/.local/
 
 # Byte-compiled / optimized / DLL files
